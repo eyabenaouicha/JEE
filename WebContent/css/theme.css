@@ -1,0 +1,88 @@
+[data-default-color="blue"] .skin-color{
+color: rgb(26, 94, 94);
+}
+[data-default-color="blue"] .skin-background {
+    background-color: rgba(165, 235, 235, 0.692);
+}
+[data-default-color="blue"] .skin-admin-slidebar {
+    background-color: rgb(138, 206, 206);
+}
+[data-default-color="blue"] .skin-btns-bg {
+    background-color: rgb(21, 117, 117);
+}
+[data-default-color="blue"] .skin-btns-color {
+    color: rgb(40, 223, 236);
+}
+[data-default-color="blue"] .skin-modal-shadow {
+    box-shadow: 1px 1px 14px 3px rgb(159, 214, 214);
+}
+[data-default-color="blue"] .prg-color {
+    color:  rgb(21, 117, 117);
+}
+[data-default-color="blue"] .skin-carousel-next-btn {
+    color:   rgb(21, 117, 117);
+}
+[data-default-color="blue"] .skin-carousel-bg {
+    color:   rgba(23, 221, 221, 0.863);
+}
+[data-default-color="blue"] .skin-article-border {
+    border:1px solid rgb(21, 117, 117);
+    
+    border-radius:25px;
+}
+[data-default-color="blue"] .skin-checkout {
+    background-color: rgb(167, 245, 245);
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+[data-default-color="green"] .skin-color{
+    color: #0ab627e1;
+    }
+[data-default-color="green"] .skin-background {
+        background-color:  #aaffb8d2;
+        
+}
+[data-default-color="green"] .skin-admin-slidebar {
+    background-color:  #7cc288d2;
+}
+[data-default-color="green"] .skin-btns-bg {
+    background-color: green;
+}
+[data-default-color="green"] .skin-btns-color {
+    color: rgb(10, 133, 40);
+}
+[data-default-color="green"] .skin-modal-shadow {
+    box-shadow: 1px 1px 14px 3px#26cc42d2;
+}
+[data-default-color="green"] .prg-color {
+    color:  #089B35;
+}
+[data-default-color="green"] .skin-carousel-next-btn {
+    color:  #089B35;
+}
+[data-default-color="green"] .skin-carousel-bg {
+    color:   #0eb33f4b;
+}
+[data-default-color="green"] .skin-article-border {
+    border:1px solid #089B35;
+    
+    border-radius:25px;
+}
+[data-default-color="green"] .skin-checkout {
+    background-color:#089B35;
+    
+    
+}
+
+
+
